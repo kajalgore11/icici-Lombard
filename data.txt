@@ -1,0 +1,8 @@
+<div class="cp-contentblock">
+
+<h6 id="blog3_title1">How to Get Fancy Registration Numbers for Car and Bike</h6>
+<p id="blog3_title2">Learn the steps to obtain unique and fancy registration numbers for your car or bike. Discover the process, requirements and tips to make it happen.</p>
+<span id="blog3_postdate" class="date">1 Feb 2023</span><br>
+
+<!--  <a id="tw_readmore_url" class="read-mr" href="/blog-new/health-insurance/hi/articles/2021/06/29/covid-19-here-s-what-we-re-doing-to-help-you-fight-the-disease" target="_blank">Read more</a>  -->
+</div>
