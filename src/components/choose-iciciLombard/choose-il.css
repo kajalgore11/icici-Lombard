@@ -1,0 +1,156 @@
+.main-head h2{
+    margin: 50px 0px 50px 0px;
+    font-family: sans-serif;
+    color:rgb(61, 57, 57)
+}
+/* dependable */
+
+.dependable-content{
+    padding: 28px;
+}
+.dependable-row{
+    margin-bottom: 90px;
+}
+
+.dependable-h1{
+    font-size: 60px;
+    color:rgb(0, 0, 0);
+    font-weight: 300;
+    font-family: system-ui;
+    padding: 10px;
+}
+.dependable-text h6{
+    font-size: 17px;
+    margin: 10px;
+}
+.dependable-text p{
+    color:rgb(54, 54, 54);
+    font-size: 17px;
+    padding: 15px;
+}
+.dependable-text span{
+    color:black;
+    font-size: 17px;
+}
+
+/* aproachable */
+
+.aproachable{
+    margin-bottom: 70px;
+}
+.aproachable-h1{
+    font-size: 60px;
+    color:rgb(0, 0, 0);
+    font-weight: 300;
+    font-family: system-ui;
+    padding: 10px;
+}
+.aproachable-text h6{
+    font-size: 17px;
+    margin: 10px;
+}
+.aproachable-text p{
+    color:rgb(54, 54, 54);
+    font-size: 17px;
+    padding: 15px;
+}
+.collaps-btn li{
+display: inline;
+font-size: 1.1rem;
+font-weight: 400;
+
+}
+
+/* transparent */
+.transparent{
+    margin-bottom: 60px;
+}
+.transparent-h1{
+    font-size: 60px;
+    color:rgb(0, 0, 0);
+    font-weight: 300;
+    font-family: system-ui;
+    padding: 10px;
+}
+.transparent-text h6{
+    font-size: 17px;
+    margin: 10px;
+}
+.transparent-text p{
+    color:rgb(54, 54, 54);
+    font-size: 17px;
+    padding: 15px;
+}
+.more-transparent h6{
+    font-size: 17px;
+    margin: 10px;
+}
+/* takeCare */
+
+.takeCare-blue{
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 50px;
+}
+
+.take-img{
+    display: inline-block;
+    margin-left:35% ;
+    padding-top: 40px;
+}
+.takeCareMob {
+    padding-right: 100px;
+}
+.takeCareMob h1{
+    font-weight: 400;
+    font-size: 35px;
+    color: azure;
+
+}
+.takeCareMob p{
+    font-size: 17px;
+
+}
+.takeCare-download{
+    margin-top: 30px;
+}
+.ilTakeCare-img img{
+/* padding: 10px; */
+}
+.ilTakeCare-download img{
+    margin-top: -35px;
+}
+.LearnCPRSaveALife {
+    padding-top:80px ;
+}
+.LearnCPRSaveALife h3{
+    font-size: 40px;
+    font-weight: 300;
+}
+.LearnCPRSaveALife p{
+    padding-left: 35%;
+    padding-right: 33%;
+    font-size: 17px;
+    color: #282828;
+    
+}
+.LearnCPRSaveALife{
+    background-color:#fff3f3;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 600px;
+    width: 100%;
+    max-height: 800px;
+    margin-top: 129%;
+}
+.youtube-video iframe{
+    border-radius: 27px;
+    position: relative;
+    z-index: 99;
+    overflow: hidden;
+
+}
+

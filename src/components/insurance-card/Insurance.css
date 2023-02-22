@@ -1,0 +1,156 @@
+/* ----------------------------card css ---------------------------- */
+
+.main-container{
+    margin-top: 49%;
+}
+.insu-head h3{
+    font-weight: 400;
+    font-size: 35px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    color: rgb(41 40 40);
+    font-family: inherit;
+}
+.card{
+    border: 1px solid gray;
+    border-radius: 15px;
+    box-shadow: rgb(243, 77, 1); 
+    padding: 0px;
+    margin: 10px;
+    width: 400px;
+    display: flex;
+}
+.card img{
+    border-radius: 15px;
+}
+.card_title1{
+    font-size: 20px;
+    color: rgb(66, 5, 5);
+    font-weight: 400;
+}
+.card-body .date{
+color: rgb(146, 137, 137);
+}
+.card:hover{
+    box-shadow: 0px 0px 5px 4px rgb(225, 223, 223);
+}
+.more-article-btn{
+    text-align: center;
+    margin:60px ;
+}
+.more-article-btn .moreArticles{
+    color:rgb(232, 83, 33);
+    border: 1px solid rgb(232, 83, 33);
+    background-color: white; 
+    text-decoration: none;
+    padding: 9px;
+    border-radius: 20px;
+}
+.more-article-btn .moreArticles:hover{
+    color: white;
+    background-color: rgb(232, 83, 33);
+}
+/* ----------------------------pmfby container-fluid  css----------------------------*/
+
+.cont-pmfby{
+    background-color: rgb(250, 248, 248);
+}
+
+.blog2 .pmfby-head{
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(54, 54, 54);
+ 
+}
+.blog2 .pmfby-text{
+    text-align: justify ;
+    color: rgb(101, 100, 100);
+    font-family: system-ui;
+    font-size: 18px;
+    
+}
+.column1{
+    border-right: 1px solid rgb(214, 205, 205);
+    padding-top: 60px; 
+    
+}
+.pmfby-content-block{
+    padding-top: 60px; 
+}
+
+.pmfby-content-block .slide-text{
+    padding: 30px;
+}
+
+/* ---------------------------- Review css ---------------------------- */
+/* .slider-content{
+    border: 1px solid rgb(172, 170, 170);
+} */
+/* .review-slider-main{
+    margin-top: 50px;
+} */
+.review-slider-content .review-head{
+margin: 50px;
+font-size: 35px;
+font-weight: 400;
+}
+.award-box1 .award-head{
+    margin: 50px;
+    font-size: 35px;
+    font-weight: 400;
+}
+.slider-contxt{
+    border: 1px solid rgb(172, 170, 170);
+    border-radius: 10px;
+}
+.review-content-blog{
+    padding: 55px;
+}
+.review-content-blog .slide-head{
+    font-size: 18px;
+    font-family: math;
+}
+.review-content-blog .slide-text{
+    font-size: 18px;
+    font-family: revert;
+    /* font-family: initial; */
+    color: black;
+    font-weight: 100;
+}
+/* ---------------------------- Review awards css ---------------------------- */
+.award-blog1{
+    border: 1px solid gray;
+    margin: 10px;
+    border-radius: 10px;
+}
+.award-blog2{
+    border: 1px solid gray; 
+    margin: 10px;  
+    border-radius: 10px;
+}
+.award-blog1 img{
+    /* border-radius: 10px; */
+    border-top-left-radius: 10px;
+    border-bottom-left-radius:10px ;
+}
+.award-blog2 img{
+    /* border-radius: 10px; */
+    border-top-left-radius: 10px;
+    border-bottom-left-radius:10px ;
+}
+.superbrand-cust{
+    /* padding: 10px; */
+}
+.superbrand-cust h6{
+    font-size: 17px;
+}
+.superbrand-cust p{
+    /* font-family: sans-serif; */
+   font-weight: 100;
+   color: black;
+   padding: 10px;
+    /* color: rgb(92, 90, 90); */
+}
+
+
+

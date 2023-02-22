@@ -1,0 +1,25 @@
+[
+    {
+        "id": 1,
+        "image":"./img/hy-svg.svg",
+        "card_title": "Hybrid Car—Types, Advantages, Hybrid vs. Electric",
+        "card_text": "Explore the world of hybrid cars. Learn about different types of hybrids, their advantages, and the differences between hybrid and electric vehicles. Stay informed and make an informed choice.",
+        "postdate":"6 Feb 2023"
+    },
+    {
+        "id":2,
+        "image":"./img/vit-D.png",
+         "card_title":"Vitamin D Rich Food Sources -Veg and Non-vegetarian",
+        "card_text":"Discover the top Vitamin D rich food sources - both vegetarian and non-vegetarian options. Boost your Vitamin D intake and improve overall health with our comprehensive list.",
+        "postdate":"6 Feb 2023"
+    },
+    {
+        "id":3,
+        "image":"./img/car.png",
+        "card_title":"How to Get Fancy Registration Numbers for Car and Bike",
+        "card_text":"Learn the steps to obtain unique and fancy registration numbers for your car or bike. Discover the process, requirements and tips to make it happen.",
+        "postdate":"1 Feb 2023"
+    }
+]
+
+

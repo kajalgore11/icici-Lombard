@@ -1,0 +1,20 @@
+[
+    {
+        "id":1,
+        "review_img":"./img/profile-icon-male.png",
+        "review_persion_name":"Krishna Patel",
+        "review_discriotion":"Bought the ICICI Lombard travel insurance for my urgent trip to Europe this summer. I got my policy certificate within minutes. Simple, easy to follow, digital purchase process. Good work!"
+    },
+        {
+           "id":2,
+            "review_img":"./img/profile-icon-male.png",
+            "review_persion_name":"Sagar Singh",
+            "review_discriotion":"The cashless hospitalisation feature is really useful. My wife's emergency surgery was completed with absolutely no delays. The network hospital attended to her immediately and admitted her on priority. Thanks guys!"
+        },
+        {
+           "id":3,
+            "review_img":"./img/female-icon.webp",
+            "review_persion_name":"Arti Navelkar",
+            "review_discriotion":"Loved the easy, digital claims process, had to just upload images of my damaged car to register my claim. The claims advisor (Mr. Aakash Dhume) was very friendly and helped me dedicatedly in settling the claim."
+        }
+]
